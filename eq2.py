@@ -1,5 +1,5 @@
 from cmath import *
-print("Write your equation in this form : ax²+b=c")
+print("Write your equation in this form : ax²+bx=c")
 print("Write a specific value for a")
 a = float(input())
 print("Write a specific value for b")
